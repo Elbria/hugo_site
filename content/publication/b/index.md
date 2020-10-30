@@ -1,5 +1,5 @@
 ---
-title: "The University of Maryland’s Kazakh-English Neural Machine Translation System at"
+title: "The University of Maryland’s Kazakh-English Neural Machine Translation System at WMT 2019"
 authors: 
 - admin
 - Marine Carpuat
