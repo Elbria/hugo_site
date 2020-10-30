@@ -1,0 +1,28 @@
+name = "my_theme"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+#primary = "#EF476F"
+primary="#495867"
+
+# Menu
+menu_primary = "#ffffff"
+menu_text = "#577399"
+#menu_text = "#118AB2"
+menu_text_active = "#0b3954"
+menu_title = "#ffffff"
+
+# Backgrounds
+background = "#ffffff"
+home_section_odd = "#ffffff"
+home_section_even = "#ffffff"
+
+dark_background = ""
+dark_home_section_odd = ""
+dark_home_section_even = ""
+
+link = "#ff5a5f"
+#link = "#118AB2"
+link_hover = "#577399"

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | eleftheria</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Eleftheria Briakou</copyright>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am a second year Ph.D. student in the Department of &lt;a href=&#34;https://www.cs.umd.edu&#34; target=&#34;_blank&#34;&gt;Computer Science&lt;/a&gt; at the &lt;a href=&#34;https://www.umd.edu&#34; target=&#34;_blank&#34;&gt;University of Maryland, College Park&lt;/a&gt;. I am a member of the &lt;a href=&#34;https://wiki.umiacs.umd.edu/clip/index.php/Main_Page&#34; target=&#34;_blank&#34;&gt;CLIP&lt;/a&gt; lab advised by &lt;a href=&#34;http://www.cs.umd.edu/~marine/&#34; target=&#34;_blank&#34;&gt;Marine Carpuat&lt;/a&gt;. My research focus is on Natural Language Processing (NLP) while I am primarily interested in semantics, multilingual NLP and neural machine translation (NMT). I currently work on detection of cross-lingual semantic divergences while my ultimate is goal is to incorporate this knowledge into NMT models and systems used in cross-lingual transfer.&lt;/p&gt;
+
+&lt;p&gt;Previously, I received my undergraduate degree from the &lt;a href=&#34;https://www.ntua.gr/en/schools/item/3-school-of-electrical-and-computer-engineering&#34; target=&#34;_blank&#34;&gt;School of Electrical and Computer Engineering&lt;/a&gt; at the &lt;a href=&#34;https://www.ntua.gr/en/&#34; target=&#34;_blank&#34;&gt;National Technical University of Athens&lt;/a&gt;, where I was advised by &lt;a href=&#34;http://slp.cs.ece.ntua.gr/potam/&#34; target=&#34;_blank&#34;&gt;Alexandros Potamianos&lt;/a&gt;. My diploma thesis focus was on the creation of topic-based word embeddings integrating contextual variations of word semantics. Both Greek and English versions of my thesis can be found &lt;a href=&#34;http://dspace.lib.ntua.gr/handle/123456789/47528&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

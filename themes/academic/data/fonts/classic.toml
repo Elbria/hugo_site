@@ -1,0 +1,17 @@
+# Font style metadata
+name = "Classic"
+
+# Optional Google font URL
+google_fonts = "Lato:400,700|Merriweather|Roboto+Mon|Cutive+Mono|Lora:400,700|Roboto:400,700|Lobster|Arima Madurai|Courgette|Montez"
+
+# Font families
+heading_font = "Courgette"
+body_font = "Merriweather"
+nav_font = "Arima Madurai"
+#mono_font = "Merriweather"
+#mono_font = "Roboto Mono"
+mono_font = "Orbitron"
+
+# Font size
+font_size = "15"
+font_size_small = "20"
