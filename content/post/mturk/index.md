@@ -1,7 +1,7 @@
 ---
 title: 'Amazon Mechanical Turk Tutorial '
 subtitle: 'Setting up an evaluation task with qualification test from scratch :rocket:'
-summary: Setting up an Amazon Mechanical Turk evaluation with Qualification Test from scratch
+summary: setting up an amazon mechanical turk evaluation with qualification test from scratch
 authors:
 - admin
 date: "2020-01-19T00:00:00Z"

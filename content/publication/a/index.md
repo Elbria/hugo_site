@@ -29,7 +29,7 @@ links:
 - icon: file-alt
   icon_pack: fas
   name: pdf
-  url: https://arxiv.org/pdf/2010.03662.pdf
+  url: https://www.aclweb.org/anthology/2020.emnlp-main.121.pdf
 - icon: code
   icon_pack: fas
   name: code
@@ -49,7 +49,7 @@ links:
 - icon: satellite-dish
   icon_pack: fas
   name: cite
-  url: https://arxiv.org/abs/2010.03662
+  url: https://www.aclweb.org/anthology/2020.emnlp-main.121.bib
 
 
 # Featured image
